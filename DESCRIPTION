@@ -1,0 +1,12 @@
+Package: QuickFixR
+Type: Package
+Title:  FIX Messaging Engine In R
+Version: 0.1.0
+Date: 2021/10/28
+Author: Mahmood Khezrian 
+Maintainer: Mahmood Khezrian <Khezrian@web.de>
+Description: It is a tool designed for technical individuals working on the Financial Information eXchange ("FIX") Protocol. 
+  The FIX Protocol is an industry-driven messaging standard for the electronic communication of trade-related messages.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
