@@ -21,8 +21,5 @@ base::apply(varPackages
 rm(varPackages);
 
 
-usethis::use_github(protocol = "https" , auth_token = Sys.getenv("GITHUB_PAT"));
-usethis::git_remotes();
-usethis::use_git_remote("origin", url = NULL, overwrite = TRUE);
-usethis::use_git_remote("origin", url = "https://github.com/QuickFixR/QuickFixR.git", overwrite = TRUE);
-usethis::use_git_remote("QuickFixR", url = "https://github.com/QuickFixR/QuickFixR.git", overwrite = TRUE);
+
+
