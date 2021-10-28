@@ -1,6 +1,6 @@
 Package: QuickFixR
 Type: Package
-Title:  FIX Messaging Engine In R
+Title: FIX Messaging Engine In R
 Version: 0.1.0
 Date: 2021/10/28
 Author: Mahmood Khezrian 
@@ -10,3 +10,5 @@ Description: It is a tool designed for technical individuals working on the Fina
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/mah-kh58/QuickFixR
+BugReports: https://github.com/mah-kh58/QuickFixR/issues
