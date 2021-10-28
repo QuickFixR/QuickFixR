@@ -14,5 +14,6 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function(x) {
+  y <- 100;
   print(base::paste0("Hello, [",x,"]!"));
 }
